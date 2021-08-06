@@ -2,5 +2,5 @@
 
 So this is my first code forces problem and luckily it was relatively easy
 
-## Code (C:
+## Code (C+:
 
