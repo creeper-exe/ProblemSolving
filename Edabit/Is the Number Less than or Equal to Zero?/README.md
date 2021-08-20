@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/57595625/130228288-051cd54e-5b34-43b4-9625-025291455203.png)
 
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
 
 <div align="center">
 <a href="https://github.com/creeper-exe" target="_blank">
