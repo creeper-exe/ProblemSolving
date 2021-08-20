@@ -6,7 +6,7 @@ It is really good to practice the syntax with simple problems (Of course there a
 1. [Area of Triangle](https://github.com/creeper-exe/ProblemSolving/tree/main/Edabit/Area%20of%20a%20Triangle) (Very Easy)
 2. [Return the Sum of Two Numbers](https://github.com/creeper-exe/ProblemSolving/tree/main/Edabit/Return%20the%20Sum%20of%20Two%20Numbers) (Very Easy)
 3. [Is the Number Less than or Equal to Zero?](https://github.com/creeper-exe/ProblemSolving/tree/main/Edabit/Is%20the%20Number%20Less%20than%20or%20Equal%20to%20Zero%3F) (Very Easy)
-4. [Convert Hours into Seconds]()
+4. [Convert Hours into Seconds](https://github.com/creeper-exe/ProblemSolving/tree/main/Edabit/Convert%20Hours%20into%20Seconds) (Very Easy)
 5. []()
 6. []()
 7. []()
