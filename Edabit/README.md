@@ -1,6 +1,6 @@
 # [Edabit](https://edabit.com/challenges)
 
-It is really good to practice the syntax with simple problems (Of course there are hard stuff but i just use to practice the syntax)
+It is really good to practice the syntax with simple problems (Of course there are hard stuff but i just use Edabit to practice the syntax)
 
 ## The problems sorted in the order that i solved them in
 1. [Area of Triangle](https://github.com/creeper-exe/ProblemSolving/tree/main/Edabit/Area%20of%20a%20Triangle) (Very Easy)
