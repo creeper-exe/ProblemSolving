@@ -1,4 +1,4 @@
-# Get Word Count
+# [Get Word Count](https://edabit.com/challenge/2RZXNLZMNMnGtS5d5)
 
 ![image](https://user-images.githubusercontent.com/57595625/130493589-bb446949-1c58-4c59-98b5-80d5a4b3403d.png)
 
