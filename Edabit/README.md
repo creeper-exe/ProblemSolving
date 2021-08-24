@@ -10,7 +10,7 @@ It is really good to practice the syntax with simple problems (Of course there a
 5. [Return the Remainder from Two Numbers](https://github.com/creeper-exe/ProblemSolving/tree/main/Edabit/Return%20the%20Remainder%20from%20Two%20Numbers) (Very Easy)
 6. [Flip the Boolean](https://github.com/creeper-exe/ProblemSolving/tree/main/Edabit/Flip%20the%20Boolean) (Very Easy)
 7. [Convert Minutes into Seconds](https://github.com/creeper-exe/ProblemSolving/tree/main/Edabit/Convert%20Minutes%20into%20Seconds) (Very Easy)
-8. []()
+8. [Get Word Count](https://github.com/creeper-exe/ProblemSolving/tree/main/Edabit/Get%20Word%20Count) (Easy)
 9. []()
 
 
