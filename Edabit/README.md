@@ -24,8 +24,6 @@ It is really good to practice the syntax with simple problems (Of course there a
 19. []() ()
 
 
-https://github.com/creeper-exe/ProblemSolving/tree/main/Edabit/How%20Many%20Solutions%20Does%20This%20Quadratic%20Have%3F
-Easy
 
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
