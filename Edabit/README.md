@@ -12,7 +12,7 @@ It is really good to practice the syntax with simple problems (Of course there a
 7. [Convert Minutes into Seconds](https://github.com/creeper-exe/ProblemSolving/tree/main/Edabit/Convert%20Minutes%20into%20Seconds) (Very Easy)
 8. [Get Word Count](https://github.com/creeper-exe/ProblemSolving/tree/main/Edabit/Get%20Word%20Count) (Easy)
 9. [Burrrrrrrp](https://github.com/creeper-exe/ProblemSolving/tree/main/Edabit/Burrrrrrrp) (Easy)
-10. [How Many Solutions Does This Quadratic Have?]() (Easy)
+10. [How Many Solutions Does This Quadratic Have?]() ()
 11. []() ()
 12. []() ()
 13. []() ()
