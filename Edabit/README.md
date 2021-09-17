@@ -15,7 +15,7 @@ It is really good to practice the syntax with simple problems (Of course there a
 10. [How Many Solutions Does This Quadratic Have?](https://github.com/creeper-exe/ProblemSolving/tree/main/Edabit/How%20Many%20Solutions%20Does%20This%20Quadratic%20Have%3F) (Easy)
 11. [Sort Numbers in Ascending Order](https://github.com/creeper-exe/ProblemSolving/tree/main/Edabit/Sort%20Numbers%20in%20Ascending%20Order) (Easy)
 12. [Absolute Sum](https://github.com/creeper-exe/ProblemSolving/tree/main/Edabit/Absolute%20Sum) (Very Easy)
-13. []() ()
+13. [Less Than 100?]() (Very Easy)
 14. []() ()
 15. []() ()
 16. []() ()
