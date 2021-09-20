@@ -1,30 +1,21 @@
 #include <iostream>
-#include <algorithm>
+#include<string>
 using namespace std;
-int jami, k = 1, h = 0;
-string a;
-int func(int n) {
-    int f = 0;
-    while (n > 0) {
-        f += n % 10;
-        n = n / 10;
-    }
-    return f;
-}
 
 int main() {
-    cin >> a;
-    if (a.size() != 1) {
-        for (int i = 0; i < a.size(); i++) {
-            jami += a[i] - 48;
-        }
-        while (jami >= 10) {
-            h = jami;
-            jami = func(h);
-            k++;
-        }
-        cout << k;
-    } else {
-        cout << 0;
-    }
-}Gerald 
+	 string spell;
+	 cin>>spell;
+	 int counter=0;
+	 int len=spell.length();
+	while(len>1){
+		int sum=0;
+		for(int i=0;i<len;i++){
+			sum+=spell[i]-'0';
+		}
+		 spell=to_string(sum);
+         len=spell.length();
+         ++counter;
+	 }
+	 cout<<counter;
+	return 0;
+}
