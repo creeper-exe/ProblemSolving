@@ -1,4 +1,4 @@
-# [Day 0: Hello, World]()
+# [Day 0: Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem)
 
 ![image](https://user-images.githubusercontent.com/57595625/134389566-40a15010-bf54-43ba-aa0a-000bf404b002.png)
 
