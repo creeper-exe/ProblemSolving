@@ -1,7 +1,6 @@
 # [Day 0: Hello, World]()
 
-
-
+![image](https://user-images.githubusercontent.com/57595625/134389566-40a15010-bf54-43ba-aa0a-000bf404b002.png)
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
 
