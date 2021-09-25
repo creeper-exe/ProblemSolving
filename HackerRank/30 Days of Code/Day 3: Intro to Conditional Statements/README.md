@@ -1,6 +1,6 @@
 # [Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem)
 
-
+![image](https://user-images.githubusercontent.com/57595625/134783845-1e57df3e-2246-4fb4-9859-7c61c6d56916.png)
 
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
