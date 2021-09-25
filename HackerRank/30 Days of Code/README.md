@@ -3,7 +3,7 @@
 1. [Day 0: Hello, World](https://github.com/creeper-exe/ProblemSolving/tree/main/HackerRank/30%20Days%20of%20Code/Day%200:%20Hello%2C%20World)
 2. [Day 1: Data Types](https://github.com/creeper-exe/ProblemSolving/tree/main/HackerRank/30%20Days%20of%20Code/Day%201:%20Data%20Types)
 3. [Day 2: Operators](https://github.com/creeper-exe/ProblemSolving/tree/main/HackerRank/30%20Days%20of%20Code/Day%202:%20Operators)
-4. [Day 3: Intro to Conditional Statements]()
+4. [Day 3: Intro to Conditional Statements](https://github.com/creeper-exe/ProblemSolving/tree/main/HackerRank/30%20Days%20of%20Code/Day%203:%20Intro%20to%20Conditional%20Statements)
 
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
