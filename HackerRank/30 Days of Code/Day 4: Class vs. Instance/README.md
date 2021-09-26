@@ -1,6 +1,6 @@
-
 # [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)
 
+![image](https://user-images.githubusercontent.com/57595625/134818792-d9152a74-c5c1-456b-b058-801a2f704db7.png)
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
 
