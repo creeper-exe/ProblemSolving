@@ -5,7 +5,7 @@
 3. [Day 2: Operators](https://github.com/creeper-exe/ProblemSolving/tree/main/HackerRank/30%20Days%20of%20Code/Day%202:%20Operators)
 4. [Day 3: Intro to Conditional Statements](https://github.com/creeper-exe/ProblemSolving/tree/main/HackerRank/30%20Days%20of%20Code/Day%203:%20Intro%20to%20Conditional%20Statements)
 5. [Day 4: Class vs. Instance](https://github.com/creeper-exe/ProblemSolving/tree/main/HackerRank/30%20Days%20of%20Code/Day%204:%20Class%20vs.%20Instance)
-6. [Day 5: Loops]()
+6. [Day 5: Loops](https://github.com/creeper-exe/ProblemSolving/tree/main/HackerRank/30%20Days%20of%20Code/Day%205:%20Loops)
 
 
 
