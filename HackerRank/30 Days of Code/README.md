@@ -8,6 +8,7 @@
 6. [Day 5: Loops](https://github.com/creeper-exe/ProblemSolving/tree/main/HackerRank/30%20Days%20of%20Code/Day%205:%20Loops)
 7. [Day 6: Let's Review](https://github.com/creeper-exe/ProblemSolving/tree/main/HackerRank/30%20Days%20of%20Code/Day%206:%20Let's%20Review)
 8. [Day 7: Arrays](https://github.com/creeper-exe/ProblemSolving/tree/main/HackerRank/30%20Days%20of%20Code/Day%207:%20Arrays)
+9. [Day 8: Dictionaries and Maps]()
 
 
 
