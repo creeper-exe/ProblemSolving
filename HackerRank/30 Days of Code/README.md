@@ -10,7 +10,7 @@
 8. [Day 7: Arrays](https://github.com/creeper-exe/ProblemSolving/tree/main/HackerRank/30%20Days%20of%20Code/Day%207:%20Arrays)
 9. [Day 8: Dictionaries and Maps](https://github.com/creeper-exe/ProblemSolving/tree/main/HackerRank/30%20Days%20of%20Code/Day%208:%20Dictionaries%20and%20Maps)
 10. [Day 9: Recursion 3](https://github.com/creeper-exe/ProblemSolving/tree/main/HackerRank/30%20Days%20of%20Code/Day%209:%20Recursion%203)
-11. [Day 10: Binary Numbers]()
+11. [Day 10: Binary Numbers](https://github.com/creeper-exe/ProblemSolving/tree/main/HackerRank/30%20Days%20of%20Code/Day%2010:%20Binary%20Numbers)
 
 
 
