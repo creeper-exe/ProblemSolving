@@ -12,7 +12,7 @@
 10. [Day 9: Recursion 3](https://github.com/creeper-exe/ProblemSolving/tree/main/HackerRank/30%20Days%20of%20Code/Day%209:%20Recursion%203)
 11. [Day 10: Binary Numbers](https://github.com/creeper-exe/ProblemSolving/tree/main/HackerRank/30%20Days%20of%20Code/Day%2010:%20Binary%20Numbers)
 12. [Day 11: 2D Arrays]()
-13. [Day 12: Inheritance]()
+13. [Day 12: Inheritance](https://github.com/creeper-exe/ProblemSolving/tree/main/HackerRank/30%20Days%20of%20Code/Day%2012:%20Inheritance)
 
 
 
