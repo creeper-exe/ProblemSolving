@@ -17,7 +17,7 @@
 15. [Day 14: Scope](https://github.com/creeper-exe/ProblemSolving/tree/main/HackerRank/30%20Days%20of%20Code/Day%2014:%20Scope)
 16. [Day 15: Linked List](https://github.com/creeper-exe/ProblemSolving/tree/main/HackerRank/30%20Days%20of%20Code/Day%2015:%20Linked%20List)
 17. [Day 16: Exceptions - String to Integer](https://github.com/creeper-exe/ProblemSolving/tree/main/HackerRank/30%20Days%20of%20Code/Day%2016:%20Exceptions%20-%20String%20to%20Integer)
-18. [Day 17: More Exceptions]()
+18. [Day 17: More Exceptions](https://github.com/creeper-exe/ProblemSolving/tree/main/HackerRank/30%20Days%20of%20Code/Day%2017:%20More%20Exceptions)
 19. [Day 18: Queues and Stacks](https://github.com/creeper-exe/ProblemSolving/tree/main/HackerRank/30%20Days%20of%20Code/Day%2018:%20Queues%20and%20Stacks)
 
 
