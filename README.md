@@ -1,5 +1,5 @@
 # ProblemSolving
-Solutions to HackerRank/CodeForces/Edabit problems (Problem solving)
+Solutions to HackerRank/CodeForces/Edabit/Leet Code problems (Problem solving)
 
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
